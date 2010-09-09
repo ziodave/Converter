@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters
+END
+source_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/source_adapter.rb
+END
+destination_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/destination_adapter.rb
+END
+simple_source_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/simple_source_adapter.rb
+END
+simple_destination_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/simple_destination_adapter.rb
+END
+dummy_source_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/dummy_source_adapter.rb
+END
+dummy_destination_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/gem-converter/!svn/ver/1/lib/converter/adapters/dummy_destination_adapter.rb
+END

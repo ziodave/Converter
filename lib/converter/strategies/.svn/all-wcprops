@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/gem-converter/!svn/ver/1/lib/converter/strategies
+END
+dummy_convert_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/gem-converter/!svn/ver/1/lib/converter/strategies/dummy_convert_strategy.rb
+END
+convert_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/gem-converter/!svn/ver/1/lib/converter/strategies/convert_strategy.rb
+END
+simple_convert_strategy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/gem-converter/!svn/ver/1/lib/converter/strategies/simple_convert_strategy.rb
+END
