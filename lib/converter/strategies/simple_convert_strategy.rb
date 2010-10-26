@@ -22,7 +22,7 @@ module Converter::Strategies
 
       # result = `/usr/local/bin/convert +repage +gravity -resize x2048\\> -crop 1546x2048\\> -density 200x200 -quality 92 -colorspace RGB \"#{file_in}\" \"#{destination_adapter.file_out}\"`
       # result = `/usr/local/bin/convert +repage +gravity -resize x1024\\> -crop 786x1024\\> -density 132x132 -units PixelsPerInch -colorspace RGB \"#{file_in}\" -quality 100 \"#{destination_adapter.file_out}\"`
-      result = `/usr/local/bin/convert +repage +gravity -adaptive-resize x2048\\> -density 132x132 -units PixelsPerInch -colorspace RGB \"#{file_in}\" -quality 92 \"#{destination_adapter.file_out}\"`
+      result = `/usr/bin/convert +repage +gravity -adaptive-resize x2048\\> -density 132x132 -units PixelsPerInch -colorspace RGB \"#{file_in}\" -quality 92 \"#{destination_adapter.file_out}\"`
       
       Rails.logger.debug "Convert results: #{result}"
       
